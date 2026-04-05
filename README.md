@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dobbali Karthik - Portfolio
 
 A modern, professional, and highly creative personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
